@@ -6,7 +6,7 @@ Room Rules:
 <li> Do NOT mention/promote and/or share links for other communities. </li>
 <li> Do NOT use Autojoin unless you are active in chat. </li>
 <li> Avoid playing songs in the history. </li>
-<li> DO NOT BEG TO BE STAFF. </li>
+<li> DO NOT BEG OR ASK TO BE STAFF. </li>
 <li> Autoreply and autochat scripts are not allowed. </li>
 <li> If staff considers your song to be trolling, it can and likely will be skipped.
 <li> Ear rape will result in an immediate ban. </li>

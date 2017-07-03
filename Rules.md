@@ -2,6 +2,7 @@ Room Rules:
 =========
 <ol>
 <li> The room is not a democracy, it is a dictatorship. Staff's words are considered law.
+<li> This is an English only room.
 <li> Keep your videos somewhat appropriate and Safe For Work (SFW). </li>
 <li> Songs must be kept under 10 minutes, or they will be skipped. </li>
 <li> Do NOT mention/promote and/or share links for other communities. </li>

@@ -2,7 +2,7 @@ Room Rules:
 =========
 <ol>
 <li> The room is not a democracy, it is a dictatorship. Staff's words are considered law.
-<li> This is an English only room.
+<li> This is an English only room(English in chat, you can play music in any language).
 <li> If you're afk on the waitlist for awhile you will be removed without warning at staff discretion. </li>
 <li> Keep your videos somewhat appropriate and Safe For Work (SFW). </li>
 <li> Songs must be kept under 10 minutes, or they will be skipped. </li>

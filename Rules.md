@@ -11,7 +11,7 @@ Room Rules:
 <li> Avoid playing songs in the history. </li>
 <li> DO NOT BEG OR ASK TO BE STAFF. </li>
 <li> Autoreply and autochat scripts are not allowed. </li>
-<li> If staff considers your song to be trolling/memeing/low effort, it can and likely will be skipped.
+<li> If staff considers your song to be trolling/memeing/low effort/not a song, it can and likely will be skipped.
 <li> Ear rape will result in an immediate ban. </li>
 <li> Please do not spam commands to the bot. </li>
 <li> Only Hosts and Co-Hosts are allowed to promote. </li>
